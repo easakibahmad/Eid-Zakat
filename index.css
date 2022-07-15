@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+}
+
+.sec-one {
+    background-image: url(images/sheep-scotland.jpg);
+    height: 600px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-bottom: 60px;
+}
+
+.sec-one-div {
+    display: block;
+    text-align: left;
+    padding-left: 250px;
+    padding-right: 500px;
+    padding-top: 50px;
+}
+
+.first-heading {
+    font-size: 8vh;
+    margin-bottom: -40px;
+    font-family: 'Satisfy', cursive;
+    color: rgb(235, 16, 206);
+    font-weight: bold;
+}
+
+.sec-one-paragraph {
+    font-family: 'Kanit', sans-serif;
+    font-weight: 900;
+    font-size: 20px;
+    letter-spacing: 3px;
+    color: black;
+}
+
+.btn-one {
+    margin-top: 30px;
+    text-align: right;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+    border: 2px solid red;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 900;
+    letter-spacing: 5px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.btn-one:hover {
+    background-color: #00ba82;
+    color: white;
+}

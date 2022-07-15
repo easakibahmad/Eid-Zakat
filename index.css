@@ -53,3 +53,37 @@ body {
     background-color: #00ba82;
     color: white;
 }
+
+/* section two */
+.sec-two {
+    margin-bottom: 120px;
+}
+
+.top-dov-sec-two {
+    display: flex;
+    margin: 50px;
+    padding: 30px;
+}
+
+.right-side {
+    height: 300px;
+    padding: 30px;
+}
+
+.right-side h1 {
+    font-size: 6vh;
+    padding-bottom: 20px;
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 3px;
+}
+
+.right-side img {
+    padding-top: 40px;
+    padding-left: 20px;
+}
+
+.right iframe {
+    padding-top: 45px;
+    padding-right: 20px;
+    height: 330px;
+}
